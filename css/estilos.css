@@ -27,12 +27,14 @@ a {	text-decoration: none; }
 	align-items: center;
 	color: #000000;
 	height: 1px;
-	background-color: rgb(184, 226, 243);	
+	background-color: rgb(184, 226, 243);
+	align-items: center;
 }
 
 .contacto{
 	color: rgb(93, 95, 95);
 	font-size: 35px;
+	align-items: center;
 
 }
 

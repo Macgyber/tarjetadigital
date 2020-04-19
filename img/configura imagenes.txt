@@ -1,0 +1,6 @@
+dimenciones 700 x 300
+ancho 700 pixeles
+alto 300 pixeles
+resolucion horizontal 96 ppp
+resolucion vertical 96 ppp
+profundidad de bits 24

@@ -172,6 +172,11 @@ $(document).ready(function(){
 			}
 
 		});
+	/***
+	 * aca ejecuto cada 2 segundos la función adelantar 
+	 */
+	setInterval(adelantar, 3000);
+
 
 // ---------------------------------------
 // ----- Slider Info

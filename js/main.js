@@ -189,7 +189,7 @@ $(document).ready(function () {
 	/***
 	 * aca ejecuto cada 2 segundos la función adelantar 
 	 */
-	setInterval(adelantar, 2000);
+	setInterval(adelantar, 5000);
 
 	// ---------------------------------------
 	// ----- Slider Info
